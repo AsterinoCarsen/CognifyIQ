@@ -44,6 +44,7 @@ export default function Test({ questions }: TestProps) {
                 <div>
                     <h1 className="text-5xl font-darkBlue font-extrabold">Test completed!</h1>
                     <p>You got {correctCount} / {results.length} correct!</p>
+                    <div>Bell curve here.</div>
                 </div>
             )}
         </div>
