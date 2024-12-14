@@ -1,0 +1,46 @@
+{
+    "questions": [
+        {
+            "questionType": "Matrix",
+            "text": "Select the next diagram",
+            "src": "/Question 1/main.svg",
+            "correctIndex": 0,
+            "options": [
+                { "src": "/Question 1/Options/1.svg" },
+                { "src": "/Question 1/Options/2.svg" },
+                { "src": "/Question 1/Options/3.svg" },
+                { "src": "/Question 1/Options/4.svg" },
+                { "src": "/Question 1/Options/5.svg" },
+                { "src": "/Question 1/Options/6.svg" }
+            ]
+        },
+        {
+            "questionType": "Sequence",
+            "text": "Select the next number",
+            "src": "1.svg",
+            "correctIndex": 1,
+            "options": [
+                { "src": "1.svg" },
+                { "src": "1.svg" },
+                { "src": "1.svg" },
+                { "src": "1.svg" },
+                { "src": "1.svg" },
+                { "src": "1.svg" }
+            ]
+        },
+        {
+            "questionType": "Induction",
+            "text": "Select the correct option",
+            "src": "1.svg",
+            "correctIndex": 1,
+            "options": [
+                { "src": "1.svg" },
+                { "src": "1.svg" },
+                { "src": "1.svg" },
+                { "src": "1.svg" },
+                { "src": "1.svg" },
+                { "src": "1.svg" }
+            ]
+        }
+    ]
+}

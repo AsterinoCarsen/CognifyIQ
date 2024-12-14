@@ -11,6 +11,13 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "darkBlue": "#0a2540",
+        "lightBlue": "#635bff",
+        "paleBlue": "#425466",
+        "offWhite": "#f6f9fc",
+      },
+      fontFamily: {
+        custom: ['Helvetica', 'sans-serif']
       },
     },
   },
